@@ -1,0 +1,6 @@
+Iot Device used in Agriculture
+1. Temperature Sensor.
+2.Weather Sensor.
+3.drones
+4.greenhouse automation
+5.Water irrigation system

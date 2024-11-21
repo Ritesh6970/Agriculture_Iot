@@ -1,0 +1,1 @@
+Agriculture implements IoT through use of robots, drones, sensors, and computer imaging integrated with analytical tools for getting insights and monitor the farms. Placement of physical equipment on farms monitors and records data, which is then used to get valuable insights.
